@@ -1,0 +1,11 @@
+{
+  "name": "FORGE — Make it real",
+  "short_name": "FORGE",
+  "description": "A focused workspace for turning ideas into finished work.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090c0b",
+  "theme_color": "#090c0b",
+  "orientation": "portrait-primary",
+  "icons": []
+}

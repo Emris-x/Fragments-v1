@@ -1,7 +1,0 @@
-{
-  "name": "forge-workspace",
-  "version": "1.0.0",
-  "private": true,
-  "description": "FORGE — a focused workspace for turning ideas into finished work",
-  "engines": { "node": ">=20" }
-}
